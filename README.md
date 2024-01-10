@@ -5,7 +5,7 @@ Project Title: Stock Portfolio Manager
 
 Short Description: Develops a risk-adjusted Stock Portfolio, optimized and fine-tuned by three AI investment agents.
 
-Code for Custom Gpt Portfolio Creator is below (code for Portfolio Manager is in the Repo):
+Code for Custom Gpt Portfolio Creator is below (code for Portfolio Manager is in this Repo):
 
 On clicking  "Create Portfolios" complete the following 5 steps:
 
